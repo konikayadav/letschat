@@ -1,0 +1,16 @@
+body {
+	background-image: url("background.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+.login_div1 {
+	background: rgba(150, 213, 255, 0.992);
+	padding: 20px;
+	float: right;
+	border-radius: 15px;
+	margin-top: 250px;
+}
+img {
+	margin-top: 175px;
+}
