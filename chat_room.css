@@ -1,0 +1,14 @@
+.logout_btn {
+    float: right;
+    margin-top: 20px;
+}
+body {
+    background-image: url("background.jpg");
+	background-position: center;
+	background-size: cover;
+}
+#rooms {
+    background-color: cornflowerblue;
+    border: 10px solid rgb(66, 119, 216);
+    border-radius: 20px;
+}

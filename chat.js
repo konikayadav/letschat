@@ -1,5 +1,5 @@
 function addUser() {
-    var user = document.getElementById("player_1").innerHTML;
+    var user = document.getElementById("user_name").value;
     localStorage.setItem("u1", user );
-    window.location = "Kwitter_room.html";
+    window.location = "chat_room.html";
 }
